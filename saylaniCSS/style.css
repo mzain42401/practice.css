@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#DIV{
+    width: 100%;
+    height: 100vh;
+    background-color: aqua;
+    background-image: url('{MZ developer}.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
